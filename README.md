@@ -1,3 +1,7 @@
+# This has been merged into the Flux model-zoo
+
+[https://github.com/FluxML/model-zoo/tree/master/text/nanogpt](https://github.com/FluxML/model-zoo/tree/master/text/nanogpt)
+
 # Generative pre-trained transformer
 
 ![GPT architecture](docs/Full_GPT_architecture.svg)
